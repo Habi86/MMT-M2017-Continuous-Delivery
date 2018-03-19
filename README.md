@@ -1,4 +1,4 @@
-# Continous Delivery
+# Continuous Delivery
 
 ``npm init hello-world``
 ``touch index.js``
@@ -20,6 +20,7 @@ app.listen(3000, () => console.log('Example app listening on port 3000!'))``
 ``touch Dockerfile``
 
 add this to dockerfile: 
+
 ``
 FROM mhart/alpine-node:9
 WORKDIR /app
