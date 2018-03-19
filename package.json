@@ -1,0 +1,22 @@
+{
+  "name": "mmt-m2017-continuous-delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Habi86/MMT-M2017-Continuous-Delivery.git"
+  },
+  "author": "Stefanie Habersatter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Habi86/MMT-M2017-Continuous-Delivery/issues"
+  },
+  "homepage": "https://github.com/Habi86/MMT-M2017-Continuous-Delivery#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
